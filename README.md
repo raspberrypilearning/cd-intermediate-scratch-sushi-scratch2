@@ -1,6 +1,6 @@
-# cd-intermediate-scratch-sushi-scratch2
+# cd-intermediate-scratch-sushi
 
-![cd-intermediate-scratch-sushi-scratch2](banner.png)
+![cd-intermediate-scratch-sushi](/en/images/banner.png)
 
 Find the project online at [projects.raspberrypi.org/en/projects/cd-intermediate-scratch-sushi-scratch2](https://projects.raspberrypi.org/en/projects/cd-intermediate-scratch-sushi-scratch2)
 
